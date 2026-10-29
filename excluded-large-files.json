@@ -1,0 +1,42 @@
+[
+  {
+    "path": "Data/Car101_S1.csv",
+    "bytes": 27121416
+  },
+  {
+    "path": "Data/Car101_S2.csv",
+    "bytes": 59453461
+  },
+  {
+    "path": "Data/Car101_S3.csv",
+    "bytes": 38347962
+  },
+  {
+    "path": "Data/Car80_S1.csv",
+    "bytes": 11202698
+  },
+  {
+    "path": "Data/trajectories_0400_0415.txt",
+    "bytes": 179300362
+  },
+  {
+    "path": "Data/trajectories_0500_0515.txt",
+    "bytes": 220088356
+  },
+  {
+    "path": "Data/trajectories_0515_0530.txt",
+    "bytes": 249038322
+  },
+  {
+    "path": "Data/trajectories_0750am_0805am.txt",
+    "bytes": 167644916
+  },
+  {
+    "path": "Data/trajectories_0805am_0820am.txt",
+    "bytes": 199239490
+  },
+  {
+    "path": "Data/trajectories_0820am_0835am.txt",
+    "bytes": 215164080
+  }
+]
